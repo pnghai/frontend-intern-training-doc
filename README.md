@@ -8,7 +8,11 @@ This document will log every traning courses for frontend website developer. Tho
 	1. [HTML & CSS](http://www.theodinproject.com/courses/web-development-101)
 		* [http://howtocodeinhtml.com/index.html#toc](http://howtocodeinhtml.com/index.html#toc)
 		* [https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b)
+        * [https://ilovecoding.org/courses/learn-html-css-in-14-days] 
+        * https://www.quora.com/What-is-the-best-way-to-learn-HTML-CSS-and-JavaScript 
 	2. Javascripts & jQuery [http://www.theodinproject.com/courses/javascript-and-jquery]
+    3. [Eloquent JavaScript] (http://eloquentjavascript.net/)
+    4. [Learning JavaScript Design Patterns] (https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 2. [Website Editor/IDE]
 3. [Framework]
 	1. CSS & JS:
