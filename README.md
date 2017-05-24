@@ -32,6 +32,10 @@ This document will log every traning courses for frontend website developer. Tho
 	* Veams Framework - Static Site Generator
 		- [http://www.veams.org/getting-started.html](http://www.veams.org/getting-started.html)
 5. Project Collaboration
-	* [Git](https://git-scm.com/book/vi/v1)
+	* Git
+		* https://git-scm.com/book/vi/v1
+		* https://backlogtool.com/git-guide/vn/intro/intro1_1.html
+		* http://rogerdudler.github.io/git-guide/index.vi.html
+	* Advance: https://kimhieu.me/lam-sao-de-su-dung-git-hieu-qua-trong-mot-du-an-phan-mem/
 6. Other stuffs
 	[https://www.cheatography.com/davechild/cheat-sheets/html4/] (https://www.cheatography.com/davechild/cheat-sheets/html4/)
